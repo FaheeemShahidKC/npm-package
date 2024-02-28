@@ -1,7 +1,7 @@
 {
   "name": "project-pack",
-  "version": "0.0.1",
-  "description": "Set of validation using for validations such as email, phone number, password",
+  "version": "0.0.2",
+  "description": "Set of validation using for validations such as email, phone number, password and otp generation",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
