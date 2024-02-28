@@ -4,10 +4,10 @@ A npm package for common validation functionalities and other stuffs in your pro
 ## Installation
 Install the package using npm:
 
-npm install project-validation
+npm install project-pack
 
 # Example
-const { validateEmail } = require('project-validation');
+const { validateEmail } = require('project-pack');
 
 const email = 'test@example.com';
 if (validateEmail(email)) {
