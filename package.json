@@ -1,0 +1,23 @@
+{
+  "name": "project-pack",
+  "version": "0.0.1",
+  "description": "Set of validation using for validations such as email, phone number, password",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "repository": {
+    "url": "https://github.com/FaheeemShahidKC/npm-package"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "project validaton check-email check-phone check-password generate-otp"
+  ],
+  "author": "faymoon",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  }
+}
